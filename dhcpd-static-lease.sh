@@ -1,4 +1,6 @@
 #!/bin/bash
+# Public domain
+#
 set -e
 
 # Configuration

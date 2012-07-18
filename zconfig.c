@@ -1,4 +1,4 @@
-
+/* Public domain */
 /* gcc zconfig.c -o zconfig */
 
 #include <stdio.h>

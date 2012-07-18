@@ -1,3 +1,4 @@
+<?php /* Public domain */ ?>
 
 <form method=post action=''>
 Hostname: <input type="text" name="hostname" />
